@@ -1,4 +1,6 @@
-function showSidebar() {
-    const sidebar = document.querySelector('.side-bar')
-    sidebar.style.display = 'flex'
-}
+var navbarList = document.querySelector(".navbar-list");
+var menu = document.querySelector(".menu");
+
+menu.addEventListener("click", function () {
+  navbarList.classList.toggle("menu-active")
+})
