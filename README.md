@@ -3,7 +3,7 @@
 
   Micro is a fully responsive Podcast website, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
 
-  <a href="https://rolandaayo.github.io/micro/"><strong>➥ Live Demo</strong></a>
+  <a href="rolandaayo.github.io/micro-podcast/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
