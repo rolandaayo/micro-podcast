@@ -1,16 +1,4 @@
 <div align="center">
-  
-  ![GitHub repo size](https://img.shields.io/github/repo-size/rolandaayo/micro)
-  ![GitHub stars](https://img.shields.io/github/stars/rolandaayo/micro?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/rolandaayo/micro?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/rolandaayo?style=social)](https://twitter.com/intent/follow?screen_name=rolandaayo)
-  [![YouTube Video Views](https://img.shields.io/youtube/views/_9oK9CKuaeI?style=social)](https://youtu.be/_9oK9CKuaeI)
-
-  <br />
-  <br />
-  
-  <img src="./readme-images/project-logo.png" />
-
   <h2 align="center">Micro - Podcast website</h2>
 
   Micro is a fully responsive Podcast website, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
